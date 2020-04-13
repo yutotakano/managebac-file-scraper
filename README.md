@@ -8,7 +8,7 @@ This is a python script that downloads all files listed within the Files tab of 
 python3 scrape.py school_code username password output_dir [class_name]
 ```
 
-- `school_code` is the part between https:// and .managebac.com.
+- `school_code` is the part between `https://` and `.managebac.com`.
 - `username` is your login email address.
 - `password` is your password.
 - `output_dir` is where all your downloads go. Each class gets its own subfolder inside.
